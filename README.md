@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hi :wave: I'm Daniil, Go developer</h1>
+<h1 data-importer="text" align="center">Hi :wave: I'm Dan, Go developer</h1>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
